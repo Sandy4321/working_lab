@@ -1,0 +1,67 @@
+[
+{"metrics": [
+{"feature": "MILLENIAL", "majority": 
+{"values": [
+{"value": [0, 0], "distribution": 
+{"0": [
+{"count": 7, "label": "BUY", "is_favourable": true}], "0": [
+{"count": 5, "label": "BUY", "is_favourable": true}], "0": [
+{"count": 10, "label": "BUY", "is_favourable": true}], "0": [
+{"count": 8, "label": "BUY", "is_favourable": true}, 
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}], "0": [
+{"count": 5, "label": "BUY", "is_favourable": true}, 
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}], "0": [
+{"count": 6, "label": "BUY", "is_favourable": true}, 
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}], "0": [
+{"count": 7, "label": "BUY", "is_favourable": true}], "0": [
+{"count": 6, "label": "BUY", "is_favourable": true}], "0": [
+{"count": 8, "label": "BUY", "is_favourable": true}, 
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 6, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}, 
+{"count": 5, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 6, "label": "BUY", "is_favourable": true}, 
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 7, "label": "BUY", "is_favourable": true}, 
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 7, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 2, "label": "BUY", "is_favourable": true}, 
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 2, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 2, "label": "NOT_BUY", "is_favourable": false}, 
+{"count": 2, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 6, "label": "BUY", "is_favourable": true}, 
+{"count": 4, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 4, "label": "NOT_BUY", "is_favourable": false}, 
+{"count": 3, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 4, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}, 
+{"count": 3, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 4, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 2, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 3, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 2, "label": "NOT_BUY", "is_favourable": false}, 
+{"count": 1, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 4, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 2, "label": "NOT_BUY", "is_favourable": false}, 
+{"count": 2, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 3, "label": "NOT_BUY", "is_favourable": false}, 
+{"count": 1, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 4, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 1, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 2, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}], "1": [
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}, 
+{"count": 1, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 1, "label": "NOT_BUY", "is_favourable": false}]}, "fav_class_percent": 77.8008695652173}], "total_fav_percent": 77.8008695652173, "total_rows_percent": 38.333333333333336}, "minority": 
+{"values": [
+{"value": [1, 1], "is_biased": false, "distribution": 
+{"19": [
+{"count": 15, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 5, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 2, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 1, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 1, "label": "BUY", "is_favourable": true}], "1": [
+{"count": 6, "label": "BUY", "is_favourable": true}]}, "fairness_value": 1.028, "fav_class_percent": 80.0}], "total_fav_percent": 80.0, "total_rows_percent": 61.66666666666667}, "bias_source": {"values": []}}], "score_type": "desperate impact", "response_time": "16.429616", "rows_analyzed": 200, "perturbed_data_size": 400, "manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"}
+]
