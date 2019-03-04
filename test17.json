@@ -29,6 +29,10 @@
 						"count": 24,
 						"label": "NOT_BUY",
 						"is_favourable": "False"
+					}, {
+						"count": 24,
+						"label": "BUY",
+						"is_favourable": "True"
 					}]
 				},
 				"fairness_value": 0.758,
