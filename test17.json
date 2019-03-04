@@ -1,0 +1,49 @@
+[{
+	"metrics": [{
+		"feature": "MILLENIAL",
+		"majority": {
+			"values": [{
+				"value": [0, 0],
+				"distribution": {
+					"0": [{
+						"count": 459,
+						"label": "NOT_BUY",
+						"is_favourable": "FALSE"
+					}, {
+						"count": 517,
+						"label": "BUY",
+						"is_favourable": "True"
+					}]
+				},
+				"fav_class_percent": 51.7
+			}],
+			"total_fav_percent": 51.7,
+			"total_rows_percent": 50.0
+		},
+		"minority": {
+			"values": [{
+				"value": [1, 1],
+				"is_biased": "True",
+				"distribution": {
+					"1": [{
+						"count": 24,
+						"label": "NOT_BUY",
+						"is_favourable": "False"
+					}]
+				},
+				"fairness_value": 0.758,
+				"fav_class_percent": 39.2
+			}],
+			"total_fav_percent": 80.0,
+			"total_rows_percent": 61.66666666666667
+		},
+		"bias_source": {
+			"values": []
+		}
+	}],
+	"score_type": "desperate impact",
+	"response_time": "16.429616",
+	"rows_analyzed": 200,
+	"perturbed_data_size": 400,
+	"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+}]
