@@ -178,7 +178,7 @@
 		"minority": {
 			"values": [{
 				"value": [1, 1],
-				"is_biased": "False",
+				"is_biased": "True",
 				"distribution": {
 					"1": [{
 						"count": 24,
